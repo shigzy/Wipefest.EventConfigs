@@ -98,19 +98,6 @@
     "filter": {
       "type": "cast",
       "ability": {
-        "ids": [ 102342, 116849, 6940, 1022, 204018, 47788, 33206, 122972, 633 ]
-      }
-    }
-  },
-   {
-    "name": "Maiden Tanking Externals",
-    "tags": [ "raid", "utility" ],
-    "show": false,
-    "showTarget": true,
-    "eventType": "ability",
-    "filter": {
-      "type": "cast",
-      "ability": {
         "ids": [ 102342, 116849, 6940, 1022, 204018, 47788, 33206, 122972, 633, 98008 ]
       }
     }
